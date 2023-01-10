@@ -13,3 +13,9 @@ node index.js
 '''barn
 node index.js red
 '''
+
+## Generate a requested color and its luminosity
+
+'''barn
+node index.js red dark
+'''
