@@ -4,18 +4,18 @@ Generates random/requested color
 
 ## Generate a random color
 
-'''barn
+```bash
 node index.js
-'''
+```
 
 ## Generate a requested color
 
-'''barn
+```bash
 node index.js red
-'''
+```
 
 ## Generate a requested color and its luminosity
 
-'''barn
+```bash
 node index.js red dark
-'''
+```
